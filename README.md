@@ -3,7 +3,7 @@
 <p align="justify">I'm <strong>Joan Rojas Mejia</strong>, junior web developer and student with several projects in development. This repository contains my website code, which is intended to serve as my online resume and show my web presence, education, experience, skills, projects, blogs, etc. Find more about me on my  <a href="https://joanrojasmejia.github.io/Portfolio_website/" target="_blank" >personal website</a>.</p>
 
 ## Quick Preview:
-![Anushka Verma Portfolio Website](https://raw.githubusercontent.com/verma-anushka/anushkaverma/master/images/screenshot.jpeg)
+![Joan Rojas Portfolio Website](https://github.com/JoanRojasMejia/Portfolio_website/blob/master/img/Screenshot.jpg)
 
 <div align="center">
   
