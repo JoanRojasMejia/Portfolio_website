@@ -1,8 +1,8 @@
-## Hey there!
+## Hi there <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="25px">!
 
 <p align="justify">I'm <strong>Joan Rojas Mejia</strong>, junior web developer and student with several projects in development. This repository contains my website code, which is intended to serve as my online resume and show my web presence, education, experience, skills, projects, blogs, etc. Find more about me on my  <a href="https://joanrojasmejia.github.io/Portfolio_website/" target="_blank" >personal website</a>.</p>
 
-## Quick Preview:
+## Quick Preview <img src="https://media.tenor.com/images/0290b6387694a576c9b8858c900fe8c0/tenor.gif" width="30px">:
 ![Joan Rojas Portfolio Website](https://github.com/JoanRojasMejia/Portfolio_website/blob/master/img/Screenshot.jpg)
 
 <div align="center">
