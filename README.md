@@ -1,16 +1,16 @@
 ## Hey there!
 
-<p align="justify">I'm <strong>Anushka Verma</strong>, an experienced full stack web developer and technical writer with a demonstrated history of working in the information technology and services industry. This repository holds the code for my portfolio website, which is aimed to serve as my online resume and display my web presence, education, work experience, skills, projects, blogs, etc. Find more about me on my <a href="https://verma-anushka.github.io/anushkaverma/" target="_blank" >personal website</a>.</p>
+<p align="justify">I'm <strong>Joan Rojas Mejia</strong>, junior web developer and student with several projects in development. This repository contains my website code, which is intended to serve as my online resume and show my web presence, education, experience, skills, projects, blogs, etc. Find more about me on my  <a href="https://joanrojasmejia.github.io/Portfolio_website/" target="_blank" >personal website</a>.</p>
 
 ## Quick Preview:
 ![Anushka Verma Portfolio Website](https://raw.githubusercontent.com/verma-anushka/anushkaverma/master/images/screenshot.jpeg)
 
 <div align="center">
   
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/verma-anushka/anushkaverma)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://verma-anushka.github.io/anushkaverma/)
-[![Author](https://img.shields.io/badge/Author-Anushka%20Verma-blue.svg)](https://www.linkedin.com/in/AVS1508/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-27%20May,%202021-yellow.svg)](https://verma-anushka.github.io/anushkaverma/)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-0b6e4f)](https://joanrojasmejia.github.io/Portfolio_website/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-00a676)](https://joanrojasmejia.github.io/Portfolio_website/)
+[![Author](https://img.shields.io/badge/Author-Joan%20Rojas-3d348b)](https://joanrojasmejia.github.io/Portfolio_website/)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-7%20July%2C%202021-648de5)](https://joanrojasmejia.github.io/Portfolio_website/)
 
 </div>
 
