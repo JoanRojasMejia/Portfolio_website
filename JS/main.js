@@ -1,8 +1,8 @@
 // Funcion Loader
 
-window.addEventListener("load", function(){
-    this.document.getElementById("contloader").classList.toggle("contloader2");
-});
+// window.addEventListener("load", function(){
+//     this.document.getElementById("contloader").classList.toggle("contloader2");
+// });
 
 // Funcion Loader
 
